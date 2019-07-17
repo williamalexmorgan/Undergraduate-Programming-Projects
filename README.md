@@ -1,6 +1,10 @@
 # Undergraduate-Programming-Projects
 
-## Project (1) CSC 234: Data Structures Final Project
+
+
+## Project (1)
+
+### CSC 234: Data Structures Final Project
 
 **This is an undergraduate project _for CSC 234: Data Structures_, It had to meet the following requirements:**
 
@@ -31,4 +35,4 @@ https://scratch.mit.edu/projects/225460833/
 
 **_Works by compiling all four classes and then running from Play, which is the main class._**
 
-##Project (2) 
+## Project (2) 
