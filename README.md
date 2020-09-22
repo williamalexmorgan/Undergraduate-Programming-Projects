@@ -44,3 +44,7 @@ https://scratch.mit.edu/projects/225460833/
 Neural Network for Object recognition.
 
 This neural network uses object recognition to classify handwritten number as a digit between 0-9.
+
+**The files for this project consist of:**
+
+*NeuralNet.py*
