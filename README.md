@@ -36,3 +36,11 @@ https://scratch.mit.edu/projects/225460833/
 **_Works by compiling all four classes and then running from Play, which is the main class._**
 
 ## Project (2) 
+
+### Artificial Intelligence Project
+
+**This is an undergraduate project for Artificial Intelligence:**
+
+Neural Network for Object recognition.
+
+This neural network uses object recognition to classify handwritten number as a digit between 0-9.
